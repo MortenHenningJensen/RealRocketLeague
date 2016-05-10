@@ -1,8 +1,8 @@
 {
-	"Changelist" : 2946394,
+	"Changelist" : 2934540,
 	"BuildId" : "",
 	"Modules" : 
 	{
-		"RealRocketLeague" : "UE4Editor-RealRocketLeague-2102.dll"
+		"RealRocketLeague" : "UE4Editor-RealRocketLeague.dll"
 	}
 }
