@@ -35,8 +35,8 @@ ARealRocketLeaguePawn::ARealRocketLeaguePawn()
 	Camera->bUsePawnControlRotation = false; // Don't rotate camera with controller
 
 	// Set handling parameters
-	Acceleration = 500.f;
-	TurnSpeed = 50.f;
+	Acceleration = 2000.f;
+	TurnSpeed = 100.f;
 	MaxSpeed = 4000.f;
 	MinSpeed = 500.f;
 	CurrentForwardSpeed = 500.f;
