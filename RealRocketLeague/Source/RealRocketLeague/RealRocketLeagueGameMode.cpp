@@ -7,5 +7,5 @@
 ARealRocketLeagueGameMode::ARealRocketLeagueGameMode()
 {
 	// set default pawn class to our flying pawn
-	DefaultPawnClass = ARealRocketLeaguePawn::StaticClass();
+	//DefaultPawnClass = ARealRocketLeaguePawn::StaticClass();
 }
