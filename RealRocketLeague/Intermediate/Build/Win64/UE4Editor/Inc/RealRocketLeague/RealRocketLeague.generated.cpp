@@ -12,11 +12,11 @@ void EmptyLinkFunctionForGeneratedCodeRealRocketLeague() {}
 	void ARealRocketLeagueGameMode::StaticRegisterNativesARealRocketLeagueGameMode()
 	{
 	}
-	IMPLEMENT_CLASS(ARealRocketLeagueGameMode, 3669362938);
+	IMPLEMENT_CLASS(ARealRocketLeagueGameMode, 2589373491);
 	void ARealRocketLeaguePawn::StaticRegisterNativesARealRocketLeaguePawn()
 	{
 	}
-	IMPLEMENT_CLASS(ARealRocketLeaguePawn, 3063057667);
+	IMPLEMENT_CLASS(ARealRocketLeaguePawn, 549143296);
 #if USE_COMPILED_IN_NATIVES
 // Cross Module References
 	ENGINE_API class UClass* Z_Construct_UClass_AGameMode();
