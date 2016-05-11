@@ -1,8 +1,16 @@
 {
+<<<<<<< HEAD
 	"Changelist" : 2934540,
 	"BuildId" : "",
 	"Modules" : 
 	{
 		"RealRocketLeague" : "UE4Editor-RealRocketLeague.dll"
+=======
+	"Changelist" : 2946394,
+	"BuildId" : "0270202c-e9d5-4cc4-9e36-4d197b6bb379",
+	"Modules" : 
+	{
+		"RealRocketLeague" : "UE4Editor-RealRocketLeague-1675.dll"
+>>>>>>> origin/Morten
 	}
 }
