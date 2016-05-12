@@ -57,3 +57,29 @@ RealRocketLeague/Intermediate/*
 
 # Cache files for the editor to use
 RealRocketLeague/DerivedDataCache/*
+RealRLeague/Intermediate/CachedAssetRegistry.bin
+RealRLeague/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+RealRLeague/Intermediate/Config/CoalescedSourceConfigs/Game.ini
+RealRLeague/Saved/AutoScreenshot.png
+RealRLeague/Saved/Autosaves/Game/BluePrint/BP_Goal_Auto2.uasset
+RealRLeague/Saved/Autosaves/Game/BluePrint/Ball_Auto3.uasset
+RealRLeague/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+RealRLeague/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+RealRLeague/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+RealRLeague/Saved/Backup/BP_Goal_2016-05-12-09-28-02.uasset
+RealRLeague/Saved/Backup/BP_Goal_2016-05-12-10-05-41.uasset
+RealRLeague/Saved/Backup/BP_Goal_2016-05-12-10-14-58.uasset
+RealRLeague/Saved/Backup/BP_Goal_2016-05-12-10-33-39.uasset
+RealRLeague/Saved/Backup/Ball_2016-05-12-10-17-58.uasset
+RealRLeague/Saved/Backup/TEst_2016-05-12-09-19-00.uasset
+RealRLeague/Saved/Backup/ThirdPersonExampleMap_2016-05-12-09-19-00.umap
+RealRLeague/Saved/Backup/ThirdPersonExampleMap_2016-05-12-09-35-13.umap
+RealRLeague/Saved/Backup/ThirdPersonExampleMap_2016-05-12-10-07-23.umap
+RealRLeague/Saved/Backup/ThirdPersonExampleMap_2016-05-12-10-17-58.umap
+RealRLeague/Saved/Backup/ThirdPersonExampleMap_2016-05-12-10-33-45.umap
+RealRLeague/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+RealRLeague/Saved/Config/Windows/Engine.ini
+RealRLeague/Saved/Logs/RealRLeague.log
+RealRLeague/Saved/Logs/UE4CC-Windows-A365A0CA4FFF35D8DE71E5A513343015/CrashContext.runtime-xml
+RealRLeague/Saved/Logs/UE4CC-Windows-A365A0CA4FFF35D8DE71E5A513343015/UE4Minidump.dmp
+RealRLeague/Saved/Stats/2016.05.12-09.27.42Stats.csv
