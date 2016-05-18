@@ -116,3 +116,7 @@ RealRLeague/Intermediate/ProjectFiles/UE4.vcxproj.filters
 RealRLeague/Intermediate/ProjectFiles/UE4.vcxproj.user
 RealRLeague/RealRLeague.VC.db
 RealRLeague/Binaries/Win64/RealRLeagueEditor.target
+RealRLeague/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-RealRLeague-8607.dll.response
+RealRLeague/Intermediate/Build/Win64/UE4Editor/Inc/RealRLeague/AGameLogic.generated.h
+RealRLeague/Intermediate/Build/Win64/UE4Editor/Inc/RealRLeague/MyGameLogicNew.generated.h
+RealRLeague/Intermediate/Build/Win64/UE4Editor/Inc/RealRLeague/NewTryTest.generated.h
