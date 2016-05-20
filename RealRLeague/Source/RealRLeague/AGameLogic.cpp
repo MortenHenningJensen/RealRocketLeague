@@ -48,3 +48,12 @@ int AAGameLogic::AddGoal(int score)
 {
 	return score + 1;
 }
+
+bool AAGameLogic::StartGameTime(bool timerStart)
+{
+	if (!timerStart)
+	{
+		return false;
+	}
+	return true;
+}
