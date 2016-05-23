@@ -30,9 +30,5 @@ public:
 	// Takes the blueScore and runs the AddGoal-methoed and returns a new score
 	UFUNCTION(BlueprintPure, meta = (DisplayName = "BlueScore", CompactNodeTitle = "BlueTeamScore", Category = "InGame Information"))
 		static int GetBlueScore(int score);
-
-	// Takes the blueScore and runs the AddGoal-methoed and returns a new score
-	UFUNCTION(BlueprintPure, meta = (DisplayName = "StartGameTimer", CompactNodeTitle = "StartTimer", Category = "InGame Information"))
-		static bool StartGameTime(bool timerStart);
-
+	
 };
