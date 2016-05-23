@@ -31,4 +31,14 @@ public:
 	UFUNCTION(BlueprintPure, meta = (DisplayName = "BlueScore", CompactNodeTitle = "BlueTeamScore", Category = "InGame Information"))
 		static int GetBlueScore(int score);
 	
+	// Takes the redScore and adds a string, then returns a string
+	UFUNCTION(BlueprintPure, meta = (DisplayName = "DrawRedScore", CompactNodeTitle = "DrawRedScore", Category = "InGame Information"))
+		static FString DrawRedScore(int score);
+	// Takes the blueScore and adds a string, then returns a string
+	UFUNCTION(BlueprintPure, meta = (DisplayName = "DrawBlueScore", CompactNodeTitle = "DrawBlueScore", Category = "InGame Information"))
+		static FString DrawBlueScore(int score);
+
+	// Takes the Time variables(Minutes and Seconds) and adds a string, then returns a string
+	UFUNCTION(BlueprintPure, meta = (DisplayName = "DrawTimer", CompactNodeTitle = "GameTime", Category = "InGame Information"))
+		static FString DrawGameTime(int minutes, int seconds);
 };
