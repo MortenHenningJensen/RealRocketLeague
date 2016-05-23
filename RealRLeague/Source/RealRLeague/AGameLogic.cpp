@@ -77,8 +77,7 @@ FString AAGameLogic::DrawGameTime(int minutes, int seconds)
 	FString _minutes;
 	FString _seconds;
 	FString _timeText = "Time: ";
-	//do
-	//{
+
 	_minutes = FString::FromInt(minutes);
 	_seconds = FString::FromInt(seconds);
 	if (seconds > 9)
@@ -90,8 +89,4 @@ FString AAGameLogic::DrawGameTime(int minutes, int seconds)
 	_updatedGT = _timeText + _minutes + ":0" + _seconds;
 
 	return _updatedGT;
-
-	//} while (seconds > 0 && minutes > 0);
-
-	//return _timeText + "0:00";
 }
